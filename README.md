@@ -1,2 +1,9 @@
-# N-th-Tribonacci-Number
-The Tribonacci sequence Tn is defined as follows:   T0 = 0, T1 = 1, T2 = 1, and Tn+3 = Tn + Tn+1 + Tn+2 for n >= 0.  Given n, return the value of Tn.
+# N-th Tribonacci Number
+
+This JavaScript program computes the N-th Tribonacci number, where the Tribonacci sequence is defined as follows:
+
+- **T₀ = 0**, **T₁ = 1**, **T₂ = 1**
+- For **n ≥ 0**, **Tₙ₊₃ = Tₙ + Tₙ₊₁ + Tₙ₊₂**
+
+Given an integer **n**, the program returns the value of **Tₙ**.
+
